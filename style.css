@@ -1,0 +1,21 @@
+.nhanrow1 {
+    border: 2px solid orangered;
+    padding: 20px 20px;
+}
+.bigcuteresult {
+    text-align: center;
+    font-size: 30px;
+}
+
+.nhanconvertbutton {
+    font-size: 30px;
+    box-shadow: none;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.nhanconvertertitle {
+    text-align: center;
+    font-size: 35px;
+    padding: 30px 30px;
+}
